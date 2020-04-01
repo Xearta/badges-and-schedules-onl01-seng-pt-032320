@@ -20,6 +20,6 @@ def assign_rooms(array)
   return new_array
 end
 
-def printer(result1,result2)
+def printer(array)
   puts "#{result1}+#{result2}"
 end
